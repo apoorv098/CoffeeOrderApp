@@ -10,5 +10,5 @@ Coffee order app
 
 
 # Screenshots
-![alt text](https://github.com/apoorv098/CoffeeOrderApp
+![alt text](https://github.com/apoorv098/CoffeeOrderApp/screenshots/app_english.png)
 
