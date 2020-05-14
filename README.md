@@ -2,5 +2,7 @@
 Udacity course App (Android Basics: User Input)
 
 
-Coffee order app 
-<B> Features </B>
+Coffee order app
+
+# H1 Features
+
