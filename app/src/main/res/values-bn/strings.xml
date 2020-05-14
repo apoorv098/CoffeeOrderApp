@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoffeeOrderApp</string>
+    <string name="toppings">toppings</string>
+    <string name="thank_you">ধন্যবাদ</string>
+    <string name="name_of_customer">এখানে আপনার নাম লিখুন</string>
+    <string name="whippedCream">চাবুকযুক্ত ক্রিম</string>
+    <string name="chocolate">চকলেট</string>
+    <string name="quantity">পরিমাণ</string>
+    <string name="order"></string>
+</resources>
